@@ -1,6 +1,6 @@
 "use strict";
 
-// vu dans le slide declaration d'un tableau 
+// vu dans le slide 38 declaration d'un tableau 
 const etudiants = ["Etudiant1", "Etudiant2", "Etudiant3"];
 
 // declaration d'un objet etudiant  vu dans le slide 39
